@@ -1,4 +1,4 @@
-package thread.controll.printer;
+package thread.control.printer;
 
 import java.util.Queue;
 import java.util.Scanner;

@@ -1,11 +1,10 @@
-package thread.controll.printer;
+package thread.control.printer;
 
 import java.util.Queue;
 import java.util.Scanner;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 import static util.MyLogger.log;
-import static util.ThreadUtils.sleep;
 
 public class MyPrinterV2 {
 
