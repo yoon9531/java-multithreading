@@ -3,7 +3,7 @@ package thread.sync;
 import static util.MyLogger.log;
 import static util.ThreadUtils.sleep;
 
-public class  implements BankAccount {
+public class BankAccountV2 implements BankAccount {
 
     private int balance;
 
